@@ -16,7 +16,7 @@ activiate mjpg .
 ________________________________
 __________________________________
 Here is the demo of the project:(Image)
-
+https://github.com/lamichhaneamrit/camera_management/blob/master/all_good.PNG
 __________________________________________________
 Here is the video version.(The internet was not stable during the process, so there are some interuption :)
 
