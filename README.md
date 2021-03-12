@@ -1,4 +1,4 @@
-# camera_management
+# camera management System #
 Camera Management system..dashboard with live stream also possible..
 This is the simple cctv management system made in django
 _________________________________________________________
