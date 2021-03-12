@@ -7,6 +7,7 @@ _________________________________________________________
 ________________________________________________________
 Tested  on mobile ip cameras:
 ![alt text](https://github.com/lamichhaneamrit/camera_management/blob/master/ip_camera.PNG)
+you can downlaod it from : https://play.google.com/store/apps/details?id=com.pas.webcam (for Anroid Version)
 
 ________________________________________________________
 The theme is bootsrap and and may be subjected to copyright..however you can always 
@@ -23,4 +24,6 @@ Here is the demo of the project:(Image)
 ![alt text](https://github.com/lamichhaneamrit/camera_management/blob/master/all_good.PNG)
 __________________________________________________
 Here is the video version.(The internet was not stable during the process, so there are some interuption :)
+
+*Note:I tried to deploy it on heroku , but it did not work well..So, some dependencies for heroku must be removed, in order to test on your device ) *
 
