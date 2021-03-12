@@ -24,6 +24,7 @@ Here is the demo of the project:(Image)
 ![alt text](https://github.com/lamichhaneamrit/camera_management/blob/master/all_good.PNG)
 __________________________________________________
 Here is the video version.(The internet was not stable during the process, so there are some interuption :)
+![watch video] (https://drive.google.com/file/d/1GErXt18DA2gz_VpigMnOZ5B9I38NZ2W_/view?usp=sharing)
 
 *Note:I tried to deploy it on heroku , but it did not work well..So, some dependencies for heroku must be removed, in order to test on your device ) *
 
