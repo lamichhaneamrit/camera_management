@@ -5,6 +5,9 @@ _________________________________________________________
 _________________________________________________________
 1. It supports multiple supports for the live stream.
 ________________________________________________________
+Tested  on mobile ip cameras:
+![alt text](https://github.com/lamichhaneamrit/camera_management/blob/master/ip_camera.PNG)
+
 ________________________________________________________
 The theme is bootsrap and and may be subjected to copyright..however you can always 
 integrate any fontend with this system.
